@@ -4,4 +4,6 @@ renderPostColumnOn: html
 		extraSmallSize: 12;
 		smallSize: 10;
 		mediumSize: 8;
-		with: [ self basicRenderPostsOn: html ].
+		with: [ 
+			self renderLoginErrorMessageIfAnyOn: html.
+			self basicRenderPostsOn: html ].

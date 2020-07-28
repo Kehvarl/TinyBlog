@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "AdamCorbett 7/27/2020 18:44",
+	"super" : "WAComponent",
+	"category" : "KehvBlog-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"password",
+		"account",
+		"component"
+	],
+	"name" : "KBAuthenticationComponent",
+	"type" : "normal"
+}

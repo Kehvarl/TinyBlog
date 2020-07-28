@@ -1,3 +1,3 @@
 rendering
 renderButtonsOn: html
-	self renderSimpleAdminButtonOn: html.
+	self renderModalLoginButtonOn: html.
