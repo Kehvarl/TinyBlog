@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"currentCategory"
+		"currentCategory",
+		"showLoginError"
 	],
 	"name" : "KBPostsListComonent",
 	"type" : "normal"
