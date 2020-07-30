@@ -4,5 +4,4 @@ renderCategoryColumnOn: html
 		extraSmallSize: 12;
 		smallSize: 2;
 		mediumSize: 4;
-		with: [ self basicRenderCategoriesOn: html .
-			html anchor callback: [ self call: KBAdminComponent new. ]; with: 'Admin' ] .
+		with: [ self basicRenderCategoriesOn: html . ] .

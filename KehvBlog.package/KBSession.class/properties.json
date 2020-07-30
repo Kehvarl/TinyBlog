@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "AdamCorbett 7/29/2020 17:59",
+	"super" : "WASession",
+	"category" : "KehvBlog-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"currentAdmin"
+	],
+	"name" : "KBSession",
+	"type" : "normal"
+}
