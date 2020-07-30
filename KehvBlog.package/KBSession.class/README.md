@@ -1,0 +1,1 @@
+Session state information for admin login.
