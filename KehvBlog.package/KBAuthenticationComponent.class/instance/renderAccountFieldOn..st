@@ -1,7 +1,7 @@
 rendering
 renderAccountFieldOn: html 
 	html tbsFormGroup: [ 
-		html label with: 'Account'.
+		html label: 'Account'.
 		html textInput 
 			tbsFormControl ;
 			attributeAt: 'autofocus' put: 'true';
