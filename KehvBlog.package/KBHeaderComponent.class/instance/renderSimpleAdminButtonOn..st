@@ -6,4 +6,4 @@ renderSimpleAdminButtonOn: html
 			callback: [ component goToAdministrationView ];
 			with: [ 
 				html tbsGlyphIcon iconListAlt .
-				html text: 'Admin View' ] ]
+				html text: ' Admin View' ] ]
