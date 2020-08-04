@@ -5,4 +5,6 @@ descriptionCategory
 		label: 'Category';
 		priority: 300;
 		accessor: #category;
+		comment: 'Unclassified if empty';
+		componentClass: TBSMagritteTextInputComponent ;
 		yourself.
