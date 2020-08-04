@@ -2,8 +2,9 @@ acessing-magritte
 descriptionVisible
 	<magritteDescription>
 	^ MABooleanDescription  new
-		label: 'Visible';
+		checkboxLabel: 'Visible';
 		priority: 500;
 		accessor: #visible;
+		componentClass: TBSMagritteCheckboxComponent ;
 		beRequired ;
 		yourself.
