@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "AdamCorbett 8/3/2020 18:10",
+	"super" : "TBSMagritteReport",
+	"category" : "KehvBlog-Components",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "KBPostsReport",
+	"type" : "normal"
+}
