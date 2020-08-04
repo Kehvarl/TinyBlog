@@ -1,4 +1,4 @@
-rendering
+commands
 addPost
 	| post |
 	post := self call: (self renderAddPostForm: KBPost new).
