@@ -1,0 +1,1 @@
+I represent an auto generated form for post admin.
